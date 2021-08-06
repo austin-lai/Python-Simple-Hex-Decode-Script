@@ -14,7 +14,7 @@ Using python library:
 
 - binascii
 
-**[Please check out the full script _here_](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-HackBack%202019/python-http-connect.py)**
+**[Please check out the full script _here_](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-SESH%20Birthday%20CTF/hex-decode-script.py)**
 
 <!-- /Description -->
 
